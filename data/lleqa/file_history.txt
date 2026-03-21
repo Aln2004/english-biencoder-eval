@@ -1,0 +1,8 @@
+  File: englishlleqa.pickle
+  Size: 91027108  	Blocks: 177792     IO Block: 4096   regular file
+Device: 805h/2053d	Inode: 124533351   Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1003/   mtech)   Gid: ( 1003/   mtech)
+Access: 2025-05-02 06:48:45.863495744 +0530
+Modify: 2025-05-02 06:48:46.647491544 +0530
+Change: 2025-05-02 06:48:46.647491544 +0530
+ Birth: 2025-05-02 06:48:45.863495744 +0530
