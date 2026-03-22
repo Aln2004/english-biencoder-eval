@@ -1,0 +1,368 @@
+Doing English QA for Dutch Model. Time now is  2026-03-22 23:10:48.812685
+English args are  Namespace(do_save=True, do_test=True, epochs=20, eval_after_training=False, eval_before_training=True, eval_during_training=True, log_steps=1, lr=2e-05, max_seq_length=384, model_name='/shared/checkpoints/dutch/final', optimizer='AdamW', output_dir='output/training/retriever', pooling='mean', scheduler='warmuplinear', seed=42, sim='cos_sim', train_batch_size=32, use_fp16=True, use_pre_trained_model=False, warmup_steps=60, wd=0.01)
+2026-03-22 23:10:52 - Using pretrained biencoder model...
+2026-03-22 23:10:52 - Use pytorch device_name: cuda
+2026-03-22 23:10:52 - Load pretrained SentenceTransformer: /shared/checkpoints/dutch/final
+Trainable params: 109.1M || All params: 109.1M || Trainable ratio: 100.0%
+Found 1 questions that appear both in train and dev sets. Removing them from train set...
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+The description is  None
+Dumping the data variable to: data_pickle_output/datasetout.pickle 
+Staring Dataset checks
+Queries in the test set are : 
+{1423: 'Kan ik een beroep instellen in geval van een negatief advies betreffende mijn aanvraag van nationaliteit ?', 158: 'Hoe verzoek ik mijn overlevingspensioen ?', 1527: 'Wanneer de RIS wordt het betaald ?', 1080: 'De mutuelle verklaart me geschikt om te werken. Wat gebeurt er ?', 696: 'Ik wil scheiden om reden van irremediabele desunion. Kan ik een limiet in de tijd vaststellen voor de alimentatie ?', 1484: 'Wat is het recht aan de vergetelheid in zaken van verzekering ?', 517: 'Ik vorm een opnieuw samengestelde familie, wat gebeurt er aan de hand voor de gezinstoelagen in Wallonie ?', 153: 'Hoe betwisten een weigering van verwijzingsadres ?', 1232: 'Mijn kind verlaat de school. Ga ik de gezinsuitkeringen in Wallonie verliezen ?', 1218: 'Mijn wettelijke cohabitant is overleden. Wat zijn mijn rechten in zijn erfenis ?', 1752: 'Wie moet betalen de reparatie van de schade ocasionerd bij een dief met inbreking in mijn woning in Wallonie ?', 166: 'Hoe stuur ik mijn voorafgaande kennisgeving aan de eigenaar in Wallonie ?', 839: 'Ik ben ouder. Mag ik indexeren de voedsel bijdrage Hoe berekenen deze indexatie ?', 102: 'Heb ik nog recht op gezinstoelagen na mijn studies in Brussel ?', 1587: 'Wat kan doen het kind in geval van conflict met zijn voogd ?', 1271: 'Mijn eigenaar reageert niet, kan ik breken de huurovereenkomst in Wallonie ?', 703: 'Ik ben SDF, heb ik recht op het inkomen van sociale integratie (RIS) ?', 1261: 'Mijn eigenaar heeft een einde gemaakt aan de huur van 9 jaar. Kan ik vertrekken voor het einde van de termijn van kennisgeving in Wallonie ?', 1836: "Taxe of royavance, wat's dat ça change ?", 1273: 'Kan mijn eigenaar het verhogen van de huur in loop van huur in Brussel ?', 1294: 'Kan mijn eigenaar het huurcontract van 9 jaar beëindigen om persoonlijk de woning in Brussel te bezetten ?', 1439: 'Mag ik mijn huur van korte duur beëindigen voor zijn vervaldatum in Wallonie ?', 662: 'Ik verlaat een opvangcentrum, aan welk CPAS me te wenden voor een huurgarantie ?', 401: 'Ik heb een ondertekend verklaring van wettige cohabitatie. De eigenaar heeft zijn voorafgaande kennisgeving naar één enkele wettige cohabitant gestuurd, is dat geldig ?', 1564: 'Wat te doen als ik niet een beslissing ontvang betreffende de RIS ?', 1269: 'Mijn eigenaar reageert niet, kan ik ophouden mijn huur te betalen of het verminderen in Wallonie ?', 695: 'Ik wil scheiden om reden van irremediabele desunion. Kan ik een alimentatie vragen aan mijn man/mijn vrouw ?', 1050: 'Ik heb afgerond een opleiding in alternantie, is het dat de duur mijn stage d ⁇ insertie beroeps gaat worden verminderd ?', 280: 'Binnen welke termijn moet ik mijn beroep instellen als het CPAS geen beslissing neemt ?', 1096: 'De huur van 9 jaar neemt het automatisch eind op de vervaldatum in Wallonie ?', 1272: 'Mijn eigenaar heeft niet geregistreerd de huur. Kan ik de huur beëindigen zonder voorafgaande kennisgeving of schadevergoeding in Brussel ?', 729: 'Ik ben werkloos. Moet ik mijn controlekaart voltooien tijdens mijn zwangerschap als ik werkloos ben ?', 185: 'Hoe introduceer een aanvraag van RIS aan het CPAS ?', 1659: 'Welke is de missie van de administrator van goederen ?', 1299: 'Kan mijn verhuurder de langdurige huur beëindigen voor de vervaldatum in Brussel ?', 1612: 'Wat gebeurt er als het tweede CPAS waarnaar ik word teruggestuurd zich ook onbekwaam achtt ?', 167: 'Hoe en waar vragen de geboortetoelage ?', 1605: 'Wat gebeurt er als ik blijf in de woning na de vervaldatum van de huur zonder een nieuw contract te ondertekenen in Wallonie ?', 727: 'Ik ben werkloos: hoeveel ben ik betaald als ik ziek word ?', 58: 'Heb ik recht op gezinstoelagen direct na mijn studies in Wallonie ?', 1402: 'Mag ik vragen dat men het PIIS wijzigt als ik een RIS ontvang ?', 1293: 'Kan mijn eigenaar het beëindigen huur van 9 jaar om te doen werk in de woning in Brussel ?', 1597: 'Wat gebeurt er bij het overlijden van de beschermde persoon ?', 867: 'Ik ben dakloos en ik heb een verwijzingsadres, aan welk CPAS me te richten ?', 522: 'Ik huur een sociale woning. Moet ik de huishoudster en de tuinlieden in Wallonie betalen ?', 1072: 'De registratie van de huur is het verplicht in Brussel ?', 342: 'Is het legaal om een huur voor het leven te sluiten in Brussel ?', 1829: 'Ben ik d ⁇ office niet in staat om mijn rechten van de patiënt te uitoefenen als ik een beheerder van goederen en/of van de persoon heb ?', 379: 'Ik heb gescheiden door wederzijdse toestemming. Kan ik het bedrag van de alimentatie wijzigen ?', 640: 'Ik ben niet het eens met de beslissing van de arts-adviseur. Mag ik het betwisten ?', 1100: 'De lange-termijn huur neemt het automatisch eind op de vervaldatum in Brussel ?', 1565: 'Wat te doen als ik niet het eens ben met de beslissing van het CPAS in Wallonie ?', 779: 'Ik ben huurder, moet ik berekenen de referentierent in Brussel ?', 730: 'Ik ben werkloos. Ik ben zwanger tijdens mijn stage van beroepsinsertie, is het verlengd ?', 279: 'Binnen welke termijn moet ik mijn beroep instellen tegen de beslissing van het CPAS ?', 1403: 'Mag ik vragen dat men de PIIS wijzigt als ik sociale hulp ontvang ?', 621: 'Ik heb geen PEB-certificaat. Mijn huur kan het worden geïndexeerd in Wallonie ?', 456: 'Ik profiteer d ⁇ indemniteiten van de mutuelle : kan ik zijn helpant dicht ?', 1592: 'Wat kan ik doen in geval van probleem van bevoegdheid van het CPAS ?', 354: 'Is het dat mijn huur is wel een huur van korte duur in Wallonie ?', 302: 'Moet ik vragen om een vergunning d ⁇ urbanisme als ik mijn huis in tweeën verdeel in Brussel ?', 1663: 'Welke procedure het CPAS moet het respecteren bij de ondertekening van de PIIS als ik een sociale hulp ontvang ?', 108: 'Na 9 jaar, wat gebeurt er als ik nog steeds de woning in Brussel bezet ?', 1191: 'Mijn moeder/vader is overleden in Wallonie ?', 377: 'Accommodatie van vrienden : kan de eigenaar me verbieden om het te doen in Brussel ?', 1313: 'Mijn eigenaar wil de woning bezetten die ik huur, kan hij me zetten buiten in Wallonie ?', 1095: 'Komt de huur van 9 jaar automatisch ten einde aan de vervaldatum in Brussel ?', 216: 'Hoe moet mijn eigenaar hij zenden zijn voorafgaande kennisgeving in Wallonie ?', 1300: 'Kan mijn eigenaar het lange-termijn huur in Wallonie beëindigen ?', 1795: "Wat ⁇ t ik risico't als ik niet respecteer mijn PIIS en dat ik een RIS ontvang ?", 1084: 'De remake in verf is het een reparatie renderd noodzakelijk door de vétusté, de normale slijtage of de force majeure in Wallonie ?', 37: 'Aan wie m ⁇ en wenden als ik een probleem heb met l ⁇ ONEM ?', 408: 'Ik heb een ondertekening van een verklaring van wettelijke cohabitatie. Mag ik mijn wettelijke cohabitant aan de deur zetten ?', 1416: 'Mag ik verklaren aan de  ⁇ vooruit dat ik bepaalde behandeling weiger (acharnement therapeutische) ?', 988: 'Ik wil studeren in België. Welke voorwaarden moet mijn borg voldoen ?', 1440: 'Mag ik mijn huur van lange duur beëindigen voor de vervaldatum in Wallonie ?', 346: 'Is het dat ik kan doen studies als ik ontvangt de RIS ?', 1771: 'Wie organiseert en betaalt de begrafenissen wanneer er geen erfenis is ?', 182: 'Hoe voer ik een beroep in tegen de beslissing van het CPAS voor het arbeidsrechtbank ?', 1297: 'Kan mijn eigenaar beëindigen de huur van 9 jaar zonder reden in Brussel ?', 1450: 'Mag ik naar het buitenland gaan en houden mijn toelage voor de hulp aan de ouderen in Wallonie ?', 326: 'Damages in de woning: wie betaalt wat in Wallonie ?', 107: 'Na 9 jaar, wat gebeurt er als ik nog bezet de woning in Wallonie ?', 1295: 'Kan mijn eigenaar het huurcontract van 9 jaar beëindigen om dat zijn kinderen de woning in Brussel bezetten ?', 1486: "Wat is een Individualized Project d'Integration Sociale (PIIS) (social aid) ?", 90: 'Heb ik recht op een supplement van gezinstoelagen als ik ziek of invalide ben in Wallonie ?', 228: 'Hoe kan ik zelf mijn gezinstoelagen in Wallonie ontvangen ?', 1572: 'Wat te doen als het buitengerechtelijke bevel mis gaat ?', 43: 'A wat dient het adres van referentie ?', 319: 'Moet ik lenen al de voorafgaande kennisgeving als ik me laat ontslaan ?', 1437: 'Mag ik het huur voor het leven in Brussel beëindigen ?', 1433: 'Mag ik een einde maken aan de huur van 9 jaar voor zijn vervaldatum in Wallonie ?', 1082: 'Kan de beschermde persoon een testament of een donatie maken ?', 1425: 'Mag ik een beroep instellen als het CPAS geen beslissing neemt ?', 105: 'Heb ik het recht om te passeren op een vaag terrein ?', 637: 'Ik ben niet het eens met de beslissing van de directorate-generaal personen gehandicapten betreffende mijn integratie toelage (AI). Wat doen ?', 1738: 'Welke zijn de instellingen betroffen door deze uitzondering aan de bevoegdheid van de CPAS ?', 1434: 'Kan ik beëindigen de huur van 9 jaar voor zijn vervaldatum in Brussel ?', 5: 'Aan welk CPAS me te wenden als ik verblijf in een instelling ?', 1674: 'Welke stappen moet ik doen net na mijn studies ?', 1457: 'Kan ik zelf mijn familievergoedingen ontvangen in Wallonie ?', 704: 'Ik ben SDF, heb ik recht op de sociale hulp ?', 1262: 'Mijn eigenaar heeft een einde gemaakt aan de huur. Kan ik vertrekken voor het einde van zijn termijn van kennisgeving in Brussel ?', 639: 'Ik ben het niet eens met de beslissing van de arts-adviseur betreffende mijn half-tijd medisch. Kan ik het betwisten ?', 381: 'Ik heb gescheiden om reden van irremediabele desunion. Kan ik het bedrag van de alimentatie wijzigen ?', 1296: 'Kan mijn eigenaar kan hij beëindigen de huur van 9 jaar zonder reden wanneer hij wil in Wallonie ?', 259: 'Hoe verloopt de rit terug naar het werk ?', 362: 'Moet ik een advocaat nemen om naar het arbeidshof te gaan tegen een CPAS ?', 1744: 'Welke elementen moet de beslissing inzake de RIS bevatten ?', 1471: 'Mag ik de betaling van mijn huur opschorten als de eigenaar niet voert de nodige reparaties in Wallonie ?', 1838: 'Worden al mijn schulden gewist aan het einde van de collectieve schuldenregeling ?', 209: 'Hoe mijn caisse d ⁇ familievergoedingen haalt de familievergoedingen die ik heb te veel ontvangen in Wallonie ?', 184: 'Hoe introduceer ik een beroep tegen een weigering van enkele vergunning voor buitenlanders ?', 1441: 'Kan ik mijn lange-termijn huur beëindigen voor de vervaldatum in Brussel ?', 1436: 'Kan ik het huur voor het leven beëindigen in Wallonie ?', 827: 'Ik ben ouder. Ik heb buitengewone kosten te komen voor mijn kind. Moet ik de toestemming van mijn ex vragen ?', 1155: 'Worden de vergoedingen van mutuelle in aanmerking genomen om mijn pensioen te berekenen ?', 801: 'Ik ben getrouwd(e). De eigenaar heeft zijn voorafgaande kennisgeving naar één enkele echtgenoot gestuurd, is dat geldig ?', 861: 'Ik ben eigenaar. Ben ik gemachtigd om werk te doen bij mij thuis doorgaande bij mijn buur ?', 359: 'Is het waar dat ik moet laten onderhouden de boiler elk jaar in Wallonie ?', 635: 'Ik ben niet het eens met de telling van kosten ontvangen voor mijn sociale woning, wat doen in Wallonie ?', 1278: 'Kan mijn eigenaar het vrij vaststellen de referentierent in Brussel ?', 901: 'Ik ben werknemer(e). Kan mijn werkgever me ontslaan tijdens mijn vaderschapsverlof ?', 777: 'Ik ben gehuisvest. De eigenaar kan hij mij claimen om de huur te betalen als ik bij mijn metgezel woon maar dat ik niet heb ondertekend de huurovereenkomst ?', 1809: 'Als ik sterf, kan mijn volwassen kind kan hij blijven om de sociale woning in Wallonie te bezetten ?', 1585: "Wat doet de CPAS wanneer ik'n aanvraag van RIS instel ?", 412: 'Ik heb een beheerder van goederen, kan ik een donatie doen ?', 1056: 'De beheerder van goederen kan hij zich verzetten tegen een uitgave ?', 1707: 'Wat zijn de reparaties die zijn ten laste van de eigenaar in Wallonie ?', 380: 'Ik heb gescheiden om reden van irremediabele desunion. Kan ik indexeren de alimentatie Hoe berekenen deze indexatie ?', 1536: "Wanneer begint m'n gevolmachtigde het te oefenen mijn buitengerechtelijke mandaat ?", 38: 'Aan wie te m ⁇ adresseren als ik een probleem heb met Iriscare  ⁇  Service APA of met de APA dienst van m ⁇ mutuelle ?', 1101: 'De lange-termijn huur neemt het automatisch eind op de vervaldatum in Wallonie ?', 503: 'Ik scheid. Ik scheid wegens onherstelbare desunion. Wanneer zullen we officieel gescheiden zijn (scheiding om reden van onherstelbare desunion) ?', 1314: 'Mijn eigenaar wil dat zijn kinderen de woning bezetten die ik huur. Kan hij me zetten buiten in Wallonie ?', 1693: 'Wat zijn de kosten van de huurder in een sociale woning in Wallonie ?', 1482: 'Wat verstaan we door onderhoud en reparaties in Wallonie ?', 1726: 'Wat zijn de onderhouds en reparaties ten laste van de huurder in Brussel ?', 417: 'Ik heb een certificaat PEB E. Hoe berekenen de indexatie van mijn huur in Wallonie ?', 824: 'Ik ben ouder. Ik heb niet vertrouwen in mijn ex. Op welke andere rekening kan ik de aliment bijdrage betalen ?', 341: 'Is het legaal om een huur voor het leven te sluiten in Wallonie ?', 98: 'Heb ik nog steeds recht op gezinsuitkeringen na 18 jaar in Wallonie ?', 1203: 'Mijn kortstondige huur kan het worden vernieuwd in Wallonie ?', 997: "Ik woon elders dan aan m'n domicile. Ik woon in een caravane, waar me domicilieren ?", 857: 'Ik ben eigenaar. Mijn buur kan hij langs bij mij om de niet mitoyenne omheining te onderhouden ?', 1618: 'Wat betekent "ononderbroken duur van de studies" voor de competentie van het CPAS ?', 1706: 'Wat zijn de reparaties die zijn ten laste van de huurder in Wallonie ?', 981: 'Ik verblijf een paar tijd in het buitenland, wordt mijn recht op integratieinkomen zal het gehandhaafd ?', 101: 'Heb ik nog recht op gezinsuitkeringen na mijn studies in Wallonie ?', 124: 'Naar wien van alimentatie debiteurs kan het CPAS me terugsturen ?', 591: 'Ik ga zich scheiden/ik scheiden, wie ontvangt de familievergoedingen in Brussel ?', 1596: 'Wat gebeurt er na de invoering van de aanvraag van rit terug naar het werk ?', 1312: 'Mijn eigenaar wil doen werk in de woning die ik huur. Kan hij me zetten buiten in Wallonie ?', 163: 'Hoe benoem ik iemand om mijn rechten als patiënt (vertegenwoordiger) te oefenen ?', 725: 'Ik ben aan tijdelijke werkloosheid voor force majeure corona : hoeveel ben ik betaald als ik ziek word ?', 1614: "Wat gebeurt er als het eerste CPAS aan hetwelk ik me adreseert zich in'etteert incompetent ?", 1345: 'Kan men me uitzetten in de winter in Wallonie ?', 1575: 'Wat te doen als de eigenaar weigert om de huurgeld in Wallonie te bevrijden ?', 1708: 'Wat zijn de reparaties ten laste van de eigenaar in Brussel ?', 638: 'Ik ben niet het eens met de beslissing van de Directorate-generaal personen gehandicapten betreffende mijn inkomensvervangingstoelage (ARR). Wat doen ?', 504: 'Ik scheid. Ik scheid wegens irremediabele desunion. Wat gebeurt er als mijn echtgenoot nu instemt te scheiden ?', 1149: 'Worden de toelagen voor gehandicapte persoon in aanmerking genomen bij het berekenen van mijn pensioen?', 419: 'Ik heb een PEB certificaat F of G. Mijn huur kan het worden geïndexeerd in Wallonie ?', 1831: 'Ben ik verplicht om mijn rekeningoverzichten aan het CPAS te geven voor een aanvraag van RIS ?', 590: 'Ik ga zich scheiden/ik scheiden, wie ontvangt de gezinstoelagen in Wallonie ?', 416: 'Ik heb een certificaat PEB D. Hoe berekenen de indexatie van mijn huur in Wallonie ?', 979: 'Ik ben student, aan welk CPAS moet ik me wenden ?', 172: 'Hoe maak bekend mijn laatste wilzen voor mijn begrafenis ?', 540: 'Ik me domicilieer. Ik leef in een caravane, waar me domicilieer ?', 1571: 'Wat te doen als de termijn van beroep tegen een beslissing van het CPAS is overschreden ?', 1799: 'Wat is ⁇ t de herziening van huur in Brussel ?', 1303: 'Kan mijn eigenaar het huur voor het leven in Wallonie beëindigen ?', 351: 'Tellen de dagen gedurende welke ik niet werk mee voor mijn pensioen ?', 1546: 'Wat wordt de huur van sociale woning als we scheiden of als we ons scheiden in Wallonie ?', 1748: 'Wie moet registreren de huurovereenkomst in Wallonie ?', 6: 'Aan welk CPAS m ⁇ adresseren als ik in gevangenis ben ?', 500: 'Ik scheid. Ik scheid vanwege onherstelbare desunion. We zijn het erover eens om te scheiden. Wanneer zullen we officieel gescheiden zijn (scheiding wegens onherstelbare desunion) ?', 1458: 'Kan ik zelf mijn gezinsuitkeringen ontvangen in Brussel ?', 1304: 'Kan mijn eigenaar het huur voor het leven in Brussel beëindigen ?', 1474: 'Mag ik werken als vrijwilliger als ik in arbeidsongeschiktheid ben ?', 1099: 'De huur van sociale woning neemt het einde aan het overlijden van de huurder in Wallonie ?', 1088: 'Kan het CPAS doen afschrijvingen op mijn RIS ?', 1270: 'Mijn eigenaar reageert niet, kan ik doen de werken in zijn plaats in Wallonie ?', 978: 'Ik ben student, kan het CPAS me dwingen om een student job te zoeken ?', 728: 'Ik ben werkloos. Heb ik recht op een zwangerschapsverlof als ik werkloos ben ?', 1291: 'Kan mijn eigenaar het anticiperend beëindigen van de huur van korte duur in Wallonie ?', 1845: 'Heeft een weeskind recht op een supplement van gezinstoelagen in Wallonie ?', 169: 'Hoe en wie kan introduceren een rit terug naar het werk ?', 1808: 'Reparaties, onderhouds en werken : wie doet wat in Wallonie ?', 708: 'Ik ben in de werkloosheid en ik heb kinderen. Heb ik recht op werkloosheid als ik ben gegaan op half-time om me om de kinderen te zorgen ?', 1106: 'De bal van mijn kind is voorbij gegaan in de tuin van mijn buur. Kan ik hem terughalen ?', 134: 'Hoe lang moet ik wachten voordat ik een besluit betreffende de RIS ontvang ?', 1031: 'Ik woon met mijn metgezel en/of mijn kinderen. Waar zijn de kinderen domicileerd als we zich scheiden ?', 1715: 'Welke documenten en informatie kan het CPAS vereisen voor een aanvraag van RIS ?', 1098: 'De kortstondige huur neemt het automatisch eind op de vervaldatum in Wallonie ?'}
+
+Labels in the test set are : 
+{1423: [9325], 158: [1585], 1527: [26678], 1080: [27723], 696: [3604], 1484: [27006], 517: [25601], 153: [14697, 14552], 1232: [25595], 1218: [3955], 1752: [25732, 25741, 25778, 25740, 25733, 25739], 166: [25755, 3589], 839: [15393, 3576], 102: [27927], 1587: [3835], 1271: [25734], 703: [26526], 1261: [25781], 1836: [25562], 1273: [2499, 2518], 1294: [2514], 1439: [25781], 662: [26542], 401: [3589, 3955], 1564: [26710], 1269: [25732, 25741, 25778, 25740, 25733, 25739], 695: [3604], 1050: [502], 280: [26710], 1096: [25755, 25781], 1272: [2514], 729: [1058, 27741, 27711, 1035, 27738, 1104, 27558, 27739], 185: [26673], 1659: [3896, 3910], 1299: [2514, 2517], 1612: [26673], 167: [27426], 1605: [25781], 727: [1035, 27710], 58: [27413], 1402: [26669, 26667], 1293: [2514], 1597: [3910], 867: [26542], 522: [23357], 1072: [2493, 2503], 342: [2517], 1829: [3877, 26587], 379: [15393, 3604], 640: [25993, 25971, 14697, 27813, 25982], 1100: [2514, 2517], 1565: [26710, 14697], 779: [2244, 2501], 730: [502], 279: [26710], 1403: [26669, 26667], 621: [25751, 25783], 456: [27723], 1592: [26673], 354: [25781], 302: [1946], 1663: [26669, 26667], 108: [2514], 1191: [3589], 377: [2506], 1313: [25781], 1095: [2514, 2245], 216: [25755, 3589], 1300: [25781], 1795: [26710, 26685], 1084: [25732, 25741, 25778, 25740, 25733, 25739], 37: [14697], 408: [3589, 3955], 1416: [26579], 988: [1299, 26260], 1440: [25781], 346: [26656, 26667], 1771: [7826, 3910, 7811], 182: [14697], 1297: [2514], 1450: [19884, 17156], 326: [25732, 25741, 25778, 25740, 25733, 25739], 107: [25755, 25781], 1295: [2514], 1486: [26666, 26669], 90: [27393, 27385], 228: [27418], 1572: [3873], 43: [26526], 319: [26823], 1437: [2514, 2517], 1433: [25781], 1082: [3896, 3910], 1425: [26710], 105: [2715], 637: [14697], 1738: [26542], 1434: [2514], 5: [26542], 1674: [494, 502], 1457: [25612], 704: [26526], 1262: [2514], 639: [25993, 25971, 14697, 27813, 25982], 381: [3604], 1296: [25781], 259: [1055, 27794, 1054], 362: [14722], 1744: [26676], 1471: [25734, 25739], 1838: [5105, 25498], 209: [15635, 25679, 25681], 184: [26054], 1441: [2514, 2517], 1436: [25781], 827: [3574], 1155: [343], 801: [3589], 861: [2715], 359: [25732, 25741, 25778, 25740, 25733, 25739], 635: [23357], 1278: [2244, 2501], 901: [26809], 777: [3955, 3596], 1809: [3589, 3955], 1585: [26673, 26672], 412: [3877, 3910], 1056: [3896, 15040], 1707: [25732, 25741, 25778, 25740, 25733, 25739], 380: [3604], 1536: [3873], 38: [14697], 1101: [25755, 25781], 503: [15386, 15388], 1314: [25781], 1693: [25740, 23357, 25739], 1482: [25732, 25741, 25778, 25740, 25733, 25739], 1726: [2498, 4122], 417: [25751, 25783], 824: [3574], 341: [25781], 98: [25595], 1203: [25781], 997: [165], 857: [2715], 1618: [26542], 1706: [25732, 25741, 25778, 25740, 25733, 25739], 981: [26678], 101: [25595], 124: [26658], 591: [27906, 27905, 27920], 1596: [27794], 1312: [25781], 163: [26587], 725: [27710], 1614: [26673, 25976], 1345: [23178, 23279], 1575: [25788, 25745], 1708: [2498, 4122], 638: [14697], 504: [15377], 1149: [343], 419: [25751, 25783], 1831: [26674], 590: [25612], 416: [25751, 25783], 979: [26667, 26542], 172: [7826], 540: [165], 1571: [26710], 1799: [2496, 2518], 1303: [25781], 351: [343], 1546: [3589], 1748: [25752, 25779, 25728], 6: [26542], 500: [15386, 15388], 1458: [27920], 1304: [2517], 1474: [27723], 1099: [3589], 1088: [15635], 1270: [25732, 25741, 25778, 25740, 25733, 25739], 978: [26656, 26667], 728: [1058, 27741, 27711, 1035, 27738, 1104, 27558, 27739], 1291: [25781], 1845: [25599, 25605], 169: [27723, 27794], 1808: [25732, 25741, 25778, 25740, 25733, 25739], 708: [496], 1106: [2715], 134: [26676], 1031: [152], 1715: [26674], 1098: [25781]}
+
+Queries in the dev set are : 
+{120: 'Na hoeveel tijd mijn rekening van gas en elektriciteit is het voorgeschreven in Wallonie ?', 1046: 'Ik woon alleen met de kinderen, heb ik recht op een supplement van gezinsvergoedingen in Brussel ?', 521: "Ik huur een kot d'étudiant. Welke regels gelden er aan mijn huur in Wallonie ?", 765: 'Ik ben in toeristisch verblijf (minder dan 3 maanden). Ik ben in toeristisch verblijf. Mag ik een hulp van het CPAS vragen ?', 1630: 'Wat is het bedrag van de geboortetoelage ?', 1429: 'Mag ik me wenden tot de rechter van vrede om een huurderconflict in Brussel te regelen ?', 329: 'In geval van werken, mag ik een vermindering van de huur van mijn kot in Wallonie eisen ?', 328: 'In geval van opnieuw samengestelde familie, het bedrag van de gezinstoelagen toeneemt het in Wallonie ?', 702: 'Ik ben MENA. Wat betekent de beste "duurzame oplossing" als ik MENA ben ?', 1791: 'Wie gaat het oordeel laten uitvoeren ?', 1600: "Wat gebeurt er als er niet'n staat van de plaatsen is in Brussel ?", 982: 'Ik werk onder artikel 60, kan mijn werkgever me ontslaan ?', 987: 'Ik wil studeren in België. Wat beroep invoeren als men weigert dat ik studeer in België ?', 1018: 'Ik woon met mijn familie in België. Ik word cohabitant. Welke stappen uitvoeren om een verklaring van cohabitatie te registreren ?', 561: 'Ik maak me scheiden. Waarvoor dienen de dringende en voorlopige maatregelen ?', 1528: 'Wanneer kan de rechter van vrede het eindigen aan de huur in Wallonie ?', 350: 'Moet t de eigenaar me terugbetalen de verbeteringswerkzaamheden die ik heb uitgevoerd in Wallonie ?', 762: 'Ik ben op illegaal verblijf in België (zonder papieren). Mag ik trouwen in België ?', 1256: 'Mijn arts heeft een medische fout gepleegd, hoe vragen een bemiddeling met hem ?', 683: 'Ik ontvang de vertrouwelijkheden als professioneel. Kan men me vervolgen voor schending van het professionele geheim als de persoon die zich vertrouwd heeft me had gemachtigd te onthullen ?', 149: 'Hoe berekenen de indexatie van mijn huur in Wallonie ?', 585: 'Ik ga me scheiden. Kan ik de gezinswoning verlaten zonder mijn rechten te verliezen als ik een wettige cohabitant ben ?', 352: 'Is het de werkgever verplicht om een reïntegratieplan voor te stellen ?', 1372: 'Mag ik stoppen mijn guidance/begrotingsbeheer ?', 501: 'Ik scheid. Ik scheid wegens irremediabele desunion. We zijn het eens om te scheiden. Welke motieven van irremediabele desunion kunnen onze wil om te scheiden rechtvaardigen ?', 688: 'Ik ontvang een integratietoelage (AI), kan ik een herbeoordeling van mijn handicap vragen ?', 1789: 'Wie waarschuwen bij het overlijden van een geliefde ?', 1015: 'Ik woon met mijn familie in België. Ik word wettig cohabitant. Kan men me uitzetten als ik naar de gemeente ga om een verklaring van wettig cohabitat te maken ?', 438: "Ik'héberge een vriend/een geliefde. Kan ik hébergen wie ik wil, als ik wil ?", 296: 'Moet ik de Directie-generaal personen gehandicapten waarschuwen als mijn financiële of gezinssituatie verandert voor de ⁇ allocatie van inkomensvervanging (ARR)?', 283: "In welke gevallen weigert het ONEM m'n vrijwillige activiteit ?", 1690: 'Welke sancties kan het CPAS nemen als ik een RIS heb ontvangen ?', 1520: 'Wanneer begint te lopen de termijn van kennisgeving in een huur van 9 jaar in Brussel ?', 619: 'Ik zet een kot in rent (leil van algemeen recht). Wat gebeurt er als ik niet heb aangevraagd de verhuurvergunning in Wallonie ?', 1349: 'Kan er mij een maatregel van administratie van goederen en/of van de persoon worden opgelegd ?', 154: 'Hoe betwisten een factuur ?', 1292: 'Kan mijn eigenaar het beëindigen van de huur van 9 jaar in Wallonie ?', 913: 'Ik ben werknemer(e). Wat stappen moet ik doen om recht te hebben op het zwangerschapsverlof ?', 1122: 'Kan de eigenaar het verhogen van de huur van mijn student huur in Brussel ?', 367: 'Eind van de plaatsing in waarneming voor het einde van de periode van 40 dagen ?', 251: 'Hoe verloopt de procedure van onderhoud van de behandeling in gezinsmilieu ?', 944: 'Ik ben voogd. Moet ik verantwoording afleggen aan iemand als voogd MENA ?', 1628: 'Wat is de kosten van een echtscheiding in het algemeen ?', 791: 'Ik ben ziek, moet ik verplicht naar de dokter gaan en een medisch certificaat overhandigen ?', 1613: 'Wat gebeurt er als de arts-controleur niet het eens is met mijn behandelend arts ?', 1052: 'Ik heb een permanente arbeidsongeschiktheid gevolgd aan mijn arbeidsongeluk. Ga ik vergoeding krijgen ?', 121: 'Na hoeveel tijd mijn rekening van gas en elektriciteit is het veroordeeld in Brussel ?', 1357: 'Kan men het CDD beëindigen voor de geplande datum ?', 647: 'Ik denk dat mijn woning is onhygiënisch. Ik contacteer de eigenaar. Mijn woning is onhygiënisch en de eigenaar reageert niet. Kan ik hebben de nodige werken uitvoeren en hem de factuur sturen in Wallonie ?', 445: 'Ik introduceer een verzoek in recht. Ik ben niet het eens met de beslissing: wat doen ?', 1177: 'De vader en moeder van het kind wonen samen. Wat te doen als de andere ouder een besluit heeft genomen waarmee ik het niet eens ben met betrekking tot ons minderjarig kind ?', 1570: 'Wat te doen als ik ontvangt een stelling van kosten twee jaar na het einde van mijn huur in Wallonie ?', 943: 'Ik ben werknemer in loon. Welke stappen moet ik doen bij de mutuelle voor de geboorte van mijn kind ?', 533: 'Ik zorg er voor dat de eigenaar een verhuurvergunning heeft verkregen. Wat zijn de criteria van toekenning van de verhuurvergunning in Wallonie ?', 441: 'Ik introduceer een verzoek in recht. Hoe introduceer ik een procedure in recht?', 193: 'Hoe het plaatsen in waarneming in gezinsmilieu neemt het einde aan het einde van de 40 dagen ?', 1147: 'Kan de werknemer het weigeren zich te laten onderzoeken door de arbeidsarts in de procedure van de breuk voor force majeure medische ?', 1581: 'Wat te doen als men niet slaagt om het medisch certificaat circonstancié te verkrijgen ?', 714: 'Ik ben werkloos en ik heb kinderen. Kan ik mijn werkloosheidsuitkeringen houden als ik ophou werk te zoeken om voor de kinderen te zorgen ?', 79: 'Heb ik recht op de geboortetoelage als ik een valse bevalling doe of als mijn kind is dood-geboren in Wallonie ?', 1078: 'Is de huurgarantie is het verplicht in Brussel ?', 671: 'Ik sluit me bij een vreemdeling toegestaan aan het verblijf in België (niet-Européen). Welke verblijfsbewijs ga ik krijgen na een verzoek tot gezinshereniging met een vreemdeling toegestaan aan het verblijf ?', 1590: 'Wat kan ik beslissen betreffende mijn einde van leven als ik onder administratie van goederen en/of van de persoon ben ?', 519: 'Ik huur een garage. Welke regels gelden er op mijn huur in Wallonie ?', 1009: 'Ik woon met mijn familie in België. Ik heb een kind in België. Ik ben vreemde. Mijn kind geboren in België is het Belge ?', 600: 'Ik zet een appartement of een huis in huur (leil van hoofdresidentie). Mijn verzekering betaalt niet l ⁇ entèreté van reparaties, is dat normaal in Wallonie ?', 1472: 'Mag ik werken als vrijwilliger tijdens mijn stage van beroepsinsertie ?', 1658: 'Wat is de duur van een studentenhuur in Brussel ?', 1258: 'Mijn partner heeft veel inkomens, heb ik recht op vergoedingen voor arbeidsongeschiktheid van de mutuelle ?', 465: 'Ik vraag de gezinshereniging. Ik sluit me aan bij een vreemdeling toegestaan het verblijf in België. Ik ben in mijn land van ⁇  oorsprong. Hoe introduceer ik mijn verzoek van gezinshereniging met een vreemdeling (buiten EU) toegestaan het verblijf in België ?', 200: "Hoe evalueert de arts m'n handicap voor de  ⁇ inkomensvervangingstoelage (ARR) ?", 99: 'Heb ik nog steeds recht op gezinsuitkeringen na 18 jaar in Wallonie ?', 175: 'Hoe doen een overzicht van plaatsen in Wallonie ?', 65: 'Heb ik recht op wettelijke vakanties als ik hervat aan aangepast werk met de ⁇ autorisatie van de mutuelle (half-tijd medisch) ?', 1598: 'Wat gebeurt er voor de gezinstoelagen als ik een kind heb geboren voor de 1 januari 2020 en een kind geboren na de 1 januari 2020 in Wallonie ?', 1496: "Wat is't een herziening van huur in Wallonie ?", 18: 'Op welke voorwaarden kan ik een verwijzingsadres hebben ?', 289: 'In welke gevallen kan het CPAS de sociale hulp terugkrijgen bij mijn echtgenoot of ex-echtgenoot ?', 313: 'Moet ik iets betalen als ik een beroep instel bij het arbeidsrechtbank tegen de beslissing van het CPAS ?', 766: 'Ik ben Europees. Heb ik recht op de terugbetaling van mijn gezondheidszorg als ik een sch ⁇ le 19 heb ?', 629: 'Ik heb niet gewerkt het vorig jaar, heb ik niet recht op geen dag van verlof ?', 636: 'Ik ben het niet eens met de beslissing van Iriscare  ⁇  Service APA betreffende mijn toelage voor de hulp aan de ouderen (APA). Wat doen in Brussel ?', 1035: 'Ik woon in colocatie met een vriend, hoe doen om te houden mijn snel geïsoleerd voor l ⁇ allocatie van vervanging van inkomsten (ARR) ?', 1577: 'Wat te doen als de andere ouder niet respecteert de accommodatievoorwaarden ?', 810: 'Ik ben getrouwd(e). Kan ik huur of verkopen onze huis zonder de toestemming van mijn echtgenoot ?', 256: 'Hoe verloopt de gerechtelijke procedure met het oog om de huurgarantie te recupereren in Brussel ?', 965: 'Ik ben slachtoffer van huwelijksgeweld. slachtoffer van huwelijksgeweld, aan wie me te wenden als ik wil worden geholpen ?', 310: 'Moet ik een medisch examen passeren voordat ik weer aan een aangepaste werk ga ?', 301: 'Moet ik vragen om een vergunning d ⁇ urbanisme als ik mijn huis in twee woningen in Wallonie verdeel ?', 991: 'Ik heb net afgerond mijn studies, kan ik blijven ten koste van mijn ouders voor de mutuelle ?', 1320: 'We hebben een akkoord gevonden voor ons gezinsconflict, hoe het formaliseren ?', 574: 'Ik ga me scheiden. Als wettige samenwonenden, onder welke voorwaarden kan men vragen om dringende en voorlopige maatregelen aan de rechter van de familie ?', 773: 'Ik ben Europees. Mag ik laten komen mijn familie in België ?', 347: 'Kan ik het dan weigeren om me te laten onderzoeken door de arbeidsarts in de procedure van de reintegratieroute ?', 962: 'Ik ben slachtoffer van huwelijksgeweld. Wat zijn mijn rechten als een benadeelde persoon of burgerpartij ?', 1519: 'Wanneer begint te lopen de termijn van kennisgeving in een huur van 9 jaar in Wallonie ?', 887: 'Ik ben loonwerker(e). Ik bevallen vroeger dan gepland. Wat zijn de gevolgen op mijn zwangerschapsverlof ?', 655: 'Ik denk dat mijn huisvesting onhygiënisch is. Ik wend me tot de Région wallonne of aan de bevoegde gemeente met het oog om een onderzoek van salubrité en van overcrowding te laten uitvoeren. Wat is het onderzoek van salubrité en van overcrowding in Wallonie ?', 770: 'Ik ben Europees. Ik ben Europees en ik heb een kaart E. Heb ik recht op een hulp van het CPAS ?', 745: 'Ik ben opgeroepen in recht. Wat is ik wat riskeer als ik niet respecteer de beslissing ?', 756: 'Ik ben in illegaal verblijf in België (zonder papieren). Ik ben in illegaal verblijf. Heb ik recht op een hulp van het CPAS ?', 433: 'Ik herberge een vriend/een geliefde. Mijn vriend is domiciliëerd bij mij. Kan men mijn meubels grijpen ?', 1631: 'Wat is het bedrag van de geboortetoelage in Wallonie ?', 1028: 'Ik woon met mijn familie in België. Ik ga trouwen. Wat gebeurt er als ik vreemdeling ben en dat men de viering van mijn huwelijk vertraagt ?', 513: 'Ik leg een klacht bij een mediator. De onderneming is gelegen in België. Wat doen als mijn klacht niet is ingediend voor de bevoegde mediator ?', 421: 'Ik heb een gedeeltelijke werkloosheid, heb ik recht op de RIS ?', 1645: 'Wat is de rol van de voogd van een minderjarig kind ?', 13: 'Op welke voorwaarden heb ik recht op de  ⁇ allocatie d ⁇ integratie (AI) ?', 1387: 'Mag ik het besluit van het zetten onder administratie van goederen en/of de persoon betwisten ?', 858: 'Ik ben eigenaar. Wat dekt mijn brandverzekering ?', 691: 'Ontvang ik een toelage voor de hulp aan de ouderen in Brussel ?', 239: 'Hoe te verdelen de verplichtingen tussen de roommaten in Wallonie ?', 1169: 'De ouders zijn niet getrouwd samen. Kan ik mijn kind herkennen voor zijn geboorte en hoe doen ?', 1241: 'Mijn kind is geboren voor de 1e januari 2020, heeft hij recht op het nieuwe systeem d ⁇ familie toelagen in Brussel ?', 894: 'Ik ben loonwerker(e). Ik ben zwanger, ben ik verwijderd van mijn werk ?', 902: 'Ik ben werknemer(e). Mijn kind is dood-geboren, heb ik recht op het zwangerschapsverlof (salariée) ?', 223: 'Hoe bewijzen dat ik erfgenaam ben ?', 1254: 'Mijn arts heeft een medische fouten gepleegd, hoeveel tijd heb ik om in recht te handelen ?', 174: 'Hoe doen een overzicht van plaatsen in Wallonie ?', 593: 'Ik zet een appartement of een huis in huur (leil van hoofdresidentie). Hoe worden de bedragen van de brandverzekering in Wallonie berekend ?', 237: 'Hoe te verdeelen de lasten tussen de verschillende huurders van een copropriëteit in Wallonie ?', 498: 'Ik scheid. Ik scheid wegens irremediabele desunion. We zijn het eens om te scheiden. Hoe bewijzen onze scheiding van feit ?', 1418: 'Mag ik ontslag nemen van mijn student job ?', 607: 'Ik zet een kot in rent (leil van algemeen recht). Hoe krijg ik een verhuurvergunning in Wallonie ?', 623: "Ik heb niet een kamer voor elk kind, de rechter zal het dan weigeren dat ik m'helper mijn kinderen ?", 1206: 'Mijn huur is een student huur. Kan mijn eigenaar het huur beëindigen voor de termijn voorzien in het contract in Wallonie ?', 1377: 'Kan ik profiteren van de juridische hulp (ex-pro deo) als ik eigenaar ben ?', 295: 'Moet ik de Directie Generale personen gehandicapten waarschuwen als mijn financiële of gezinssituatie verandert voor de  ⁇ integratie toelage (AI) ?', 739: 'Ik ben opgeroepen in recht. Moet het altijd vaststellen een kalender van uitwisseling van conclusies ?', 1548: 'Wat wordt de huur in geval van overlijden van de huurder in Brussel ?', 1021: 'Ik woon met mijn familie in België. Ik ga trouwen. Ik ben vreemde: kan men om de annulering van ons huwelijk vragen ?', 1640: 'Wat is de rol van de persoon van vertrouwen in het kader van de maatregel van administratie van goederen en/of van de persoon ?', 1813: 'Als ik niet terugbetaal mijn hypothecaire krediet, kan men hebben mijn huis verkopen ?', 177: 'Hoe introduceer ik de aanvraag van reintegratieroute ?', 651: 'Ik denk dat mijn huisvesting is onhygiënisch. Ik richt me bij de rechter van vrede. Hoe introduceer ik mijn verzoek bij de rechter van vrede in geval van onhygiëne in Wallonie ?', 97: 'Heb ik recht op een overlevingspensioen als ik woon in colocation ?', 1826: 'Ben ik gedekt door mijn werkgever als ik een misdaad pleeg door het uitvoeren van mijn werk aan het donker ?', 257: 'Hoe verloopt de vastgoedbewaring ?', 599: 'Ik zet een appartement of een huis in huur (leil van hoofdresidentie). Is het certificaat van energieprestatie verplicht in Wallonie ?', 447: "Ik introduceer een verzoek in recht. Wat's een citatie ?", 601: 'Ik zet een appartement of een huis in huur (leil van hoofdresidentie). Kan mijn verzekering kan dekken mijn huurders in Wallonie ?', 1049: 'Ik ben onder de 45 jaar, heb ik recht op het overlevingspensioen ?', 806: 'Ik ben getrouwd(e). We zijn getrouwd. Aan wie behoort de auto ?', 405: 'Ik heb een verklaring van wettelijke samenwoning ondertekend. We zijn wettelijke samenwonenden. Moet ik ons kind erkennen ?', 1220: 'Kan mijn studentwerkcontract er een periode d ⁇ proef voor voorzien?', 1310: 'Kan mijn eigenaar komen veranderen de deuren en de vensters in Wallonie ?', 1030: 'Ik woon met mijn metgezel en/of mijn kinderen. Mijn metgezel kan hij me aan de deur zetten als ik ben domicilieerd bij hem ?', 1794: "Wat ⁇ t ik risico't als ik maak lawaai 's nachts in mijn tuin of in de straat ?", 564: 'Ik ga me scheiden. Hoe de wettelijke cohabitatie neemt het eind?', 1832: 'Ben ik verplicht om te betalen de bouw van de muur mitoyen ?', 1390: 'Kan ik een beslissing van het Commissariaat-generaal voor vluchtelingen en staatlozen (CGRA) volgen op mijn verzoek om internationale bescherming betwisten ?', 625: 'Ik heb niet erkend mijn kind, heb ik recht op de familievergoedingen in Wallonie ?', 700: 'Ik ben MENA. Wanneer wordt er een einde gemaakt aan mijn voogdij als ik MENA ben ?', 643: 'Ik ben niet Europees en ik heb een beperkt verblijf. Kan ik laten komen mijn familie in België ?', 333: 'Kind waarvan ten minste een ouder Belgisch is. Ontvangt mijn kind automatisch de Belgische nationaliteit als ik Belgen word ?', 207: 'Hoe moet de werkgever het reintegratieplan maken ?', 138: 'Hoeveel ben ik betaald tijdens mijn wettige vakanties ?', 122: 'Na hoeveel tijd is mijn telefoonrekening is het veroordeeld ?', 685: "Ik ontvang de vertrouwelijkheden als professional. Mag ik alles vertellen aan mijn collega's als we werken in netwerk of in team pluridisciplinaire (professioneel geheim gedeeld) ?", 1419: 'Mag ik vooraf aanwijzen mijn vertrouwenspersoon in het kader van de administratie van goederen en/of de persoon ?', 1384: 'Mag ik beginnen mijn vrijwilligersactiviteit in afwachting van het antwoord van de ONEM ?', 1627: 'Wat is de CPAS die is. Als ik verhuis, is het dan mijn CPAS nog steeds bekwaam om me een hulp te verlenen ?', 1852: 'Is een uitzetting snel in Brussel ?', 235: 'Hoe terug te krijgen de huurgarantie in Brussel ?', 1725: 'Welk zijn de kinderen gedekt door een familie RC verzekering ?', 243: 'Hoe weet ik of mijn lichte woning overvol is in Wallonie ?', 1385: 'Mag ik bouwen een slab van beton tegen de muur mitoyen ?', 128: 'Hoeveel kost de procedure van het zetten onder administratie van goederen en/of van de persoon ?', 217: 'Hoe krijgen de status van apride ?', 1687: 'Welke middelen worden in overweging genomen voor de toelage voor de hulp aan oudere personen in Wallonie ?', 781: 'Ik ben huurder. Moet ik installeren van branddetectoren in Wallonie ?', 1306: 'Kan mijn huiseigenaar weigeren dat ik creëer de huurgarantie in vorm van bankgarantie in Wallonie ?', 1427: 'Mag ik afwezig zijn van het werk om naar de dokter te gaan ?', 450: "Ik introduceer een verzoek in recht. Wat's het gezamenlijke verzoek (voor genaamd appearution volontaire) ?", 422: 'Ik heb een kind, worden de consultations bij de pediater terugbetaald ?', 909: 'Ik ben werknemer. Wanneer moet ik weer aan het werk na mijn zwangerschapsverlof en wat stappen moet ik doen ?', 453: 'Ik introduceer een verzoek in recht. Wat gebeurt er als mijn tegenstander niet komt aan de eerste hearing ?', 1005: 'Ik woon met mijn familie in België. Ik heb een kind in België. Ik ben vreemde. Hoe herken ik mijn kind geboren in België ?', 1719: 'Welke beroep uitoefenen tegen de misbruiken bij een minnelijk inbooring ?', 1054: 'Ik ⁇ was gescheiden/gescheiden van mijn echtgenoot op het moment van zijn overlijden, heb ik recht op het overlevingspensioen ?', 260: 'Hoe verloopt een uitzetting ?', 1634: 'Wat is het bedrag van mijn Grapa als ik woon met een vriendin of met mijn zuster ?', 1163: 'De ouders zijn niet getrouwd samen. De vader van het kind is getrouwd met iemand anders dan de moeder. Voor welk hof gaan in geval van probleem gerelateerd aan de filiatie ?', 1264: 'Mijn eigenaar vereist een huurgarantie van 3 maanden. Is dat legaal in Brussel ?', 813: 'Ik ben getrouwd(e). Wie moet de terugbetaling van een lening betalen als we getrouwd zijn ?', 528: 'Ik zorg er voor dat de eigenaar een verhuurvergunning heeft verkregen (Région wallonne). Wat zijn de criteria voor het verlenen van de verhuurvergunning in Wallonie ?', 1308: 'Kan mijn huiseigenaar herbeoordeelen het bedrag van de huurgarantie in loop van huur in Wallonie ?', 67: 'Heb ik recht op vergoedingen van de mutuelle als ik in jail ben (zelfstandig werknemer) ?', 1824: 'Als ze me verdrijven, wat doen ze van mijn meubels in Brussel ?', 646: 'Ik denk dat mijn woning onhygiënisch is. Ik contacteer de eigenaar. Ik heb een arrangement gevonden met mijn eigenaar voor mijn woning onhygiënisch. Wat moeten we doen in Wallonie ?', 1415: 'Mag ik vragen te worden gehoord wanneer ik een beslissing van het CPAS ontvang betreffende de RIS met welke ik niet eens ben ?', 1066: 'Is de werkgever verplicht om een plan voor een aangepaste werk of voor een ander werk voor te stellen ?', 1442: 'Mag ik me inschrijven als referentiedirectie bij de persoon die me tijdelijk herbergt ?', 1042: 'Ik leef in vrije unie. Aan wie behoren de verschillende goederen als we leven in vrije unie ?', 1161: 'De ouders zijn niet getrouwd samen. De moeder van het kind is getrouwd met iemand anders dan de vader. Welke stappen om het kind te erkennen als de moeder van het kind en haar man wonen samen of, gescheiden, zijn domicileerd aan hetzelfde adres ?', 843: 'Ik ben parent. Wie is de rechter waarheen ik me te wenden voor mijn voedingsbijdragen ?', 36: 'Aan wie moet men vragen de gezinsuitkeringen in Wallonie ?', 303: 'Moet ik zeggen dat ik zwanger ben bij het sollicitatieinterview ?', 349: 'Ben ik het wel verplicht om het reintegratieplan te accepteren gemaakt door mijn werkgever ?', 1222: 'Mijn werkgever heeft mijn arbeidsovereenkomst beëindigd voor force majeure médicale. Kan ik betwisten ?', 1463: 'Mag ik weer een opleiding nemen als ik in de werkloosheid ben ?'}
+
+Labels in the dev set are : 
+{120: [4453], 1046: [27910], 521: [25806, 25809, 25807, 25778, 25808, 25802, 25810, 25727, 25804, 25803, 25805], 765: [26656], 1630: [25598, 25612, 25597], 1429: [14696, 14703, 14700, 14699, 15469, 14702, 14695, 14697, 14701, 14693, 14694, 14605, 14548, 14698], 329: [25746], 328: [27374, 27415, 27400, 27391, 27416, 27425, 27378, 27419, 27392, 27385, 27401, 27375, 27387, 27408, 27383, 27377, 27395, 27397, 27403, 27402, 27372, 27380, 27384, 27394, 27413, 27417, 27418, 27411, 27389, 27421, 27386, 27390, 27410, 27423, 27379, 27409, 27404, 27376, 27407, 27382, 27388, 27422, 27371, 27414, 27424, 27405, 27381, 27393, 27398, 27420, 27412, 27373, 27399, 27406, 27396], 702: [26263], 1791: [14421, 14425], 1600: [4128, 4130, 2495], 982: [26843, 26839, 26824, 26828, 26827, 26829, 26838, 26826, 26831, 26842, 26840, 26825, 26830, 26837, 26836, 26841, 26835, 26844, 26833, 26832, 26834, 26823], 987: [26054, 26262, 26261, 26263, 26260], 1018: [3949, 3950], 561: [3597, 15358], 1528: [25760, 25744], 350: [25775], 762: [3527, 5336, 3528, 5333, 3529, 5335], 1256: [15934, 15936, 15935, 26584], 683: [16539], 149: [25751, 25783], 585: [3955], 352: [1053, 27714, 27723, 1054, 27725, 1046, 12023, 1052, 1047, 1050, 1048, 1049, 1051], 1372: [4351], 501: [15378, 3600, 15376, 15377], 688: [26746], 1789: [3463, 3464, 3462], 1015: [3949, 3950, 3951], 438: [15471, 15478, 15469, 2511, 15476, 15477, 25778, 15473, 15470, 15475, 15472, 15474], 296: [26746], 283: [530, 73, 529], 1690: [26685, 26686], 1520: [2507], 619: [23475, 23189], 1349: [3877, 3868], 154: [5684, 5686], 1292: [25781], 913: [27742, 27750, 27743, 1064, 1059, 27769, 27756, 27741, 27746, 27739, 1026, 1021, 27762, 27753, 1029, 1051, 27757, 1045, 27740, 1052, 27767, 1023, 27754, 1063, 27736, 27771, 1054, 1047, 1055, 1043, 1025, 1037, 1048, 1058, 1031, 27752, 1030, 1041, 1056, 27744, 27747, 27745, 1060, 1040, 1024, 1044, 1053, 1038, 1036, 27761, 27748, 1034, 27763, 1039, 27760, 27768, 1027, 1050, 27758, 27738, 27770, 27737, 27749, 1028, 27751, 1046, 27765, 1057, 1035, 1061, 27755, 1022, 1065, 1032, 27759, 26508, 1062, 27764, 1033, 1042, 1049, 27766], 1122: [2536, 2518], 367: [26625, 26624], 251: [26637, 26636, 26635, 26639, 26640, 26638, 26641], 944: [3843], 1628: [15378, 15376, 15377], 791: [26815], 1613: [26815], 1052: [25930, 25848], 121: [4453], 1357: [26817, 26823, 26784, 26842], 647: [14727, 25732, 25741, 25778, 15475, 25740, 25733, 25734, 25739], 445: [15618, 14590, 15059, 15061, 15060, 14591, 14592, 15620, 15619], 1177: [3803, 3798, 3794, 3790, 3793, 3799, 3791, 3800, 3797, 3801, 3788, 3792, 3796, 3795, 3789, 3802], 1570: [25749, 4453], 943: [27604, 27725, 27724, 27769, 27756, 27721, 27732, 936, 27583, 929, 27711, 27716, 27731, 932, 27581, 27559, 1026, 27723, 27591, 930, 1021, 27715, 27762, 27562, 27586, 27572, 1029, 27580, 27757, 27766, 27730, 27560, 27575, 27767, 27754, 1023, 27589, 1071, 27771, 27563, 931, 27601, 924, 925, 27566, 27729, 27568, 1025, 1037, 27594, 27587, 27595, 1031, 1030, 1041, 935, 27567, 27585, 1040, 27717, 27728, 27602, 1024, 27578, 27579, 27598, 922, 927, 27719, 1038, 27720, 939, 27722, 938, 27599, 27593, 27718, 27603, 1036, 27761, 933, 27573, 1034, 27574, 937, 27763, 1039, 27565, 27760, 27768, 1027, 27758, 27770, 1028, 27765, 27569, 27570, 27726, 1035, 27588, 27590, 27577, 27713, 27576, 27755, 1022, 27727, 27597, 27564, 923, 27596, 27600, 928, 1032, 934, 27759, 27582, 27712, 27764, 27592, 27561, 27714, 27733, 926, 27571, 1033, 27584, 27558], 533: [23187, 23188, 23185, 23186, 23189], 441: [14696, 15041, 14703, 14700, 14699, 15040, 14702, 15039, 14695, 14697, 14701, 14693, 14694, 14698], 193: [26637, 26636, 26635, 26639, 26640, 26638], 1147: [26819], 1581: [15324], 714: [620], 79: [25612, 3466, 3465, 25597], 1078: [2528], 671: [26017, 26015, 26016], 1590: [3896, 3877, 3910], 519: [4129, 4111, 4150, 25787, 4135, 4149, 4154, 25790, 4157, 4145, 4119, 25782, 4155, 4120, 4162, 4113, 4108, 4104, 4161, 4140, 25784, 4130, 4134, 4125, 4147, 4118, 4124, 4151, 4114, 4121, 4153, 4139, 4146, 4158, 4123, 25780, 4126, 4131, 4132, 4156, 4112, 25786, 4127, 25781, 4109, 4115, 4142, 25788, 4159, 25783, 4122, 4133, 25789, 4117, 4143, 4110, 4138, 4105, 4160, 4136, 4144, 25785, 4103, 4148, 4137, 4106, 25778, 4152, 4107, 4116, 4163, 4128, 25779, 4141], 1009: [9322, 9321, 9320, 5288], 600: [27056, 27088], 1472: [530, 73, 529], 1658: [2535, 2533, 2536, 2534], 1258: [27771, 1040, 1028, 1024, 27769, 27765, 1035, 26866, 1038, 26872, 26871, 1025, 1037, 26867, 26869, 26873, 1022, 1036, 1026, 26868, 1031, 1021, 1034, 1030, 26874, 1032, 27762, 1041, 27763, 1029, 1039, 27768, 27764, 1027, 27767, 1023, 26870, 1033, 1071, 27770, 27766], 465: [26020, 26019], 200: [26726], 99: [27413], 175: [25752, 25753], 65: [1221, 1239, 1211, 1237, 1247, 1209, 1203], 1598: [25716, 25718, 25719, 25714, 25711, 25715, 25717, 25710, 25712, 25713], 1496: [25784], 18: [165, 26526], 289: [1562], 313: [15021], 766: [26157, 27558], 629: [1203], 636: [14697, 27895], 1035: [1271, 1274, 1279, 26733, 1275, 1277, 1276, 1278, 26738], 1577: [3803, 16472], 810: [3589], 256: [2530, 2528, 2529], 965: [16520, 16388], 310: [11982, 11983, 11984], 301: [24279, 24277, 23859, 24289, 23854], 991: [27604, 27602, 27578, 27579, 27563, 27569, 27598, 922, 27570, 27601, 27588, 27590, 27558, 27577, 27566, 27576, 27583, 27568, 27599, 27594, 27587, 27593, 27597, 27595, 27564, 27603, 27581, 27559, 923, 27573, 27591, 27596, 27600, 27574, 27562, 27586, 27572, 27582, 27580, 27565, 27592, 27561, 27560, 27571, 27575, 27589, 27584, 27567, 27585], 1320: [14696, 14703, 14700, 14699, 14702, 14695, 14697, 14701, 14693, 14694, 14698], 574: [3957], 773: [1363, 1350, 1357, 1360, 1352, 1361, 1356, 26158, 1362, 1358, 1353, 26159, 1354, 1359, 26184, 1351, 1355], 347: [12028, 12022], 962: [16520, 16388], 1519: [25755], 887: [1040, 1028, 1054, 1024, 1064, 1044, 1046, 1059, 1047, 1057, 1055, 1035, 1053, 1038, 1043, 1061, 1025, 1037, 1022, 1048, 27741, 1058, 27739, 1036, 1065, 1026, 1031, 1021, 1034, 1030, 1032, 1041, 1029, 1051, 1056, 1039, 26508, 1062, 1045, 1052, 1027, 1050, 1023, 1033, 1042, 1063, 1049, 1060], 655: [23171, 23170], 770: [26656], 745: [15620, 15618, 15619], 756: [26656], 433: [15718, 15730, 2672], 1631: [25612, 25597], 1028: [3550], 513: [7170, 7179], 421: [26671], 1645: [3841, 3838, 3837, 3839, 3842, 3836, 3840, 3835], 13: [26723, 1272, 26725, 26729, 26730, 1270, 26731, 26726, 26732, 26727, 26728, 26724], 1387: [15060, 15033], 858: [27074, 27085, 27073, 27083, 27082, 27080, 27081, 27079, 27084, 27056], 691: [41, 38, 27886], 239: [25798, 25792], 1169: [3641, 3619, 3618, 3623, 3620], 1241: [27942, 27905], 894: [26513, 13146, 26514, 13144, 13143, 26512, 13142, 13149, 13147, 26515, 26516, 13148, 13145, 13141, 13150], 902: [27739], 223: [2678, 2896], 1254: [4439], 174: [25752, 25753], 593: [27066, 27065, 27067], 237: [2722, 2716, 2728, 2729, 2732], 498: [3600], 1418: [26933, 26929, 26930], 607: [23185, 23187], 623: [3791], 1206: [25806], 1377: [14671, 14661, 14659, 14656, 14658, 14673, 14676, 14657, 14663, 14669, 14655, 14662, 14666, 14374, 14665, 14664, 14660, 14654, 14668, 14667, 14674, 14675, 14677, 14670, 14672], 295: [26746], 739: [14735, 14731, 14742, 14732, 14736, 14740, 14741, 14739, 14737, 14733, 14738, 14734], 1548: [2860, 2706, 2707, 2509, 2857], 1021: [3438, 3563, 3532], 1640: [3938], 1813: [15802, 15812, 6007, 15765, 15800, 15796, 15779, 15764, 15791, 6006, 15775, 15815, 6011, 15813, 15797, 15821, 15793, 15789, 15786, 15818, 15801, 15763, 15795, 15773, 15794, 15816, 15778, 6001, 15772, 15824, 6003, 15787, 15798, 6012, 5997, 15784, 15766, 15827, 15792, 15804, 15819, 15817, 15820, 15807, 15771, 15788, 15810, 6008, 15822, 15783, 15811, 6010, 6004, 15828, 5999, 15808, 15769, 6013, 15767, 5996, 6019, 6018, 6005, 15781, 15809, 15770, 6002, 15825, 15780, 15785, 15776, 6017, 15823, 15768, 15814, 15805, 5998, 15777, 5994, 15803, 15774, 15799, 6014, 15826, 6015, 6020, 5995, 6016, 15806, 6009, 15790, 6000, 15782], 177: [1053, 27714, 27723, 12022, 27725, 1046, 1054, 1052, 1047, 1050, 1048, 1049, 1051], 651: [14696, 14703, 14700, 14699, 15469, 14702, 14695, 14697, 14701, 14693, 14694, 14605, 14548, 14698], 97: [407, 1588, 1585, 1587, 1586], 1826: [26796], 257: [15765, 15763, 15764], 599: [25730], 447: [14696, 14703, 14700, 14699, 14702, 14695, 14697, 14701, 14693, 14694, 14698], 601: [25742], 1049: [407, 1588, 1585, 1587, 1586], 806: [2577, 2578, 2579], 405: [3462, 3610, 3463, 3466, 3469, 3465, 3467, 3464, 3468, 3612, 3611], 1220: [26930], 1310: [25746], 1030: [15471, 15469, 15473, 15470, 15475, 15472, 15474], 1794: [2749, 16679], 564: [3950], 1832: [2760, 2754, 2759, 2758, 2752, 2755, 2757, 2756, 2761, 2709, 2753, 2751], 1390: [26055, 26056, 26054], 625: [27388, 25659, 25594], 700: [26263], 643: [1322, 1321, 1319, 26015, 1320], 333: [9323], 207: [1053, 27714, 27723, 1054, 27725, 1046, 12023, 1052, 1047, 1050, 1048, 1049, 1051], 138: [1257, 1233], 122: [4453], 685: [16539], 1419: [3888], 1384: [530, 73, 529], 1627: [26673, 26543, 25976, 26542], 1852: [15471, 15469, 15473, 15470, 15475, 15472, 15474], 235: [2528, 2529], 1725: [3945], 243: [23171], 1385: [2760, 2754, 2759, 2758, 2752, 2755, 2757, 2756, 2761, 2709, 2753, 2751], 128: [15322, 15321, 15323], 217: [15033, 15032, 14495], 1687: [19884, 17156], 781: [23185, 25732, 25740, 25735], 1306: [25788, 25745], 1427: [26509, 26795, 11952], 450: [14696, 14703, 14700, 14699, 14702, 14695, 14697, 14701, 14693, 14694, 14698], 422: [27604, 27602, 27578, 27579, 27563, 27569, 27598, 922, 27570, 27601, 27588, 27590, 27558, 27577, 27566, 27576, 27583, 27568, 27599, 27594, 27587, 27593, 27597, 27595, 27564, 27603, 27581, 27559, 923, 27573, 27591, 27596, 27600, 27574, 27562, 27586, 27572, 27582, 27580, 27565, 27592, 27561, 27560, 27571, 27575, 27589, 27584, 27567, 27585], 909: [26513, 13146, 26514, 13144, 13143, 26512, 13142, 13149, 13147, 26515, 26516, 13148, 13145, 13141, 13150], 453: [14807, 14806, 14805, 14809, 14808], 1005: [3635], 1719: [14357, 14456, 14455, 14355, 14368, 14371, 14364, 14363, 14457, 14366, 14359, 14361, 14454, 14460, 14461, 14448, 14449, 14362, 14356, 14450, 14365, 14360, 14453, 14459, 14367, 14451, 14452, 14358, 14354, 14369, 14458, 14370], 1054: [408, 407, 1588, 1585, 1591, 1592, 1590, 1587, 1589, 1586, 1593], 260: [15471, 15469, 15473, 15470, 15475, 15472, 15474], 1634: [441, 446, 26599, 435, 448, 445, 456, 454, 453, 459, 449, 455, 462, 447, 460, 437, 461, 438, 443, 457, 451, 439, 440, 442, 444, 26598, 436, 450, 458, 452], 1163: [3656, 14699], 1264: [2528, 2529], 813: [2582, 3596], 528: [23189, 23184], 1308: [25788, 25745], 67: [190, 216, 195, 219], 1824: [15473, 15631, 2706, 2707], 646: [25775, 25734, 25778], 1415: [26675], 1066: [12027, 12028, 12024, 12026, 12023, 26819, 12025], 1442: [26526, 164, 163, 165, 161, 162], 1042: [2725, 2724, 2723], 1161: [3616, 3614, 3450, 3613, 3615, 3619, 3618, 3449, 3620, 3451, 3617], 843: [14504], 36: [27415, 27400, 27391, 27416, 25660, 27392, 27369, 27408, 27401, 27395, 27403, 27397, 27402, 27413, 27394, 27411, 27389, 27390, 27410, 27409, 27404, 27370, 27407, 27388, 27414, 27405, 27393, 27368, 27398, 27412, 27399, 27406, 27396], 303: [26510], 349: [1053, 27714, 12024, 27723, 27725, 1046, 1054, 1052, 1047, 1050, 1048, 1049, 1051], 1222: [14512, 26819, 26791, 14697, 13673], 1463: [621, 484, 624, 623, 622]}
+
+A single element of the corpus is : 
+I [SEP] In this order, we mean: (1) "Brussels insurance companies": the Brussels insurance companies, as referred to in Article 2, 7 of the ordinance of 21 December 2018 on Brussels insurance companies in the field of health care and assistance to the elderly; (2) "Ordinance": the ordinance of 10 December 2020 on the allowance for assistance to the elderly; (3) "Communication of a change affecting the allowance": the communication, as referred to in Article 10 of the ordinance; (4) "Ministers": the members of the Joint College for the policy of health care and assistance to the elderly; (5)
+
+A single element of the train set is : 
+<InputExample> label: 0, texts: Ik ben aan het werk en ik leef in colocatie. Ik leef in colocatie, hoe doen om te houden mijn tar geïsoleerd voor de werkloosheid ?; U [SEP] The amount of the unemployment benefit for the full-time unemployed shall be fixed again from the first phase of the unemployment benefit period referred to in Article 114, after the resumption of work as a part-time worker with guaranteed rights, after the resumption of work as a full-time worker for a period of at least 12 months, for a period of 33 months, when the unemployed worker receives an average of 18 hours of unemployment benefit per week for at least half of the number of hours of unemployment benefit set out above, from the first week of the reference period referred to in Article 114, but not from the first week of the reference period referred to in Article 114, but from the first week of the reference period referred to in Article 114, if the unemployed worker is not interrupted for at least three days;; S [SEP] For the purposes of this Decree: (1) the lease of a dwelling or a light dwelling, whether it is a movable or immovable property or part of it, intended to serve as a dwelling, with the exception of tourist accommodation within the meaning of the Walloon Code of Tourism; (2) the lease of a dwelling: the lease of the same property by several roommates who have signed a roommate pact no later than the signing of the lease contract and whose date of signature is fixed in the lease contract. It is formalized by the conclusion of a single contract between the spouses and the tenant.
+
+Ended Dataset Checks
+2026-03-22 23:10:53 - Information Retrieval Evaluation on lleqa_dev dataset in epoch 0 after 0 steps:
+Batches:   0%|          | 0/4 [00:00<?, ?it/s]Batches:  25%|██▌       | 1/4 [00:00<00:01,  1.64it/s]Batches: 100%|██████████| 4/4 [00:00<00:00,  5.82it/s]
+Corpus Chunks:   0%|          | 0/1 [00:00<?, ?it/s]Corpus Chunks: 100%|██████████| 1/1 [00:58<00:00, 58.30s/it]Corpus Chunks: 100%|██████████| 1/1 [00:58<00:00, 58.30s/it]
+2026-03-22 23:11:52 - Queries: 201
+2026-03-22 23:11:52 - Corpus: 27942
+
+2026-03-22 23:11:52 - Score-Function: cos_sim
+2026-03-22 23:11:52 - Accuracy@1: 0.50%
+2026-03-22 23:11:52 - Precision@1: 0.50%
+2026-03-22 23:11:52 - Precision@5: 0.80%
+2026-03-22 23:11:52 - Precision@10: 1.09%
+2026-03-22 23:11:52 - Precision@20: 0.90%
+2026-03-22 23:11:52 - Precision@50: 0.65%
+2026-03-22 23:11:52 - Precision@100: 0.51%
+2026-03-22 23:11:52 - Precision@200: 0.38%
+2026-03-22 23:11:52 - Precision@500: 0.24%
+2026-03-22 23:11:52 - Recall@1: 0.07%
+2026-03-22 23:11:52 - Recall@5: 0.94%
+2026-03-22 23:11:52 - Recall@10: 1.60%
+2026-03-22 23:11:52 - Recall@20: 2.33%
+2026-03-22 23:11:52 - Recall@50: 4.53%
+2026-03-22 23:11:52 - Recall@100: 6.99%
+2026-03-22 23:11:52 - Recall@200: 9.36%
+2026-03-22 23:11:52 - Recall@500: 15.30%
+2026-03-22 23:11:52 - MRR@10: 0.0194
+2026-03-22 23:11:52 - MRR@100: 0.0231
+2026-03-22 23:11:52 - NDCG@10: 0.0144
+2026-03-22 23:11:52 - NDCG@100: 0.0285
+2026-03-22 23:11:52 - MAP@10: 0.0073
+2026-03-22 23:11:52 - MAP@100: 0.0089
+2026-03-22 23:11:52 - Save model to output/training/retriever/lleqa/2026_03_22-23_10--shared-checkpoints-dutch-final-lleqa/final
+2026-03-22 23:11:53 - Information Retrieval Evaluation on lleqa_test dataset in epoch 20 after 5840 steps:
+Batches:   0%|          | 0/4 [00:00<?, ?it/s]Batches: 100%|██████████| 4/4 [00:00<00:00, 49.41it/s]
+Corpus Chunks:   0%|          | 0/1 [00:00<?, ?it/s]Corpus Chunks: 100%|██████████| 1/1 [00:56<00:00, 56.34s/it]Corpus Chunks: 100%|██████████| 1/1 [00:56<00:00, 56.34s/it]
+2026-03-22 23:12:49 - Queries: 195
+2026-03-22 23:12:49 - Corpus: 27942
+
+2026-03-22 23:12:49 - Score-Function: cos_sim
+2026-03-22 23:12:49 - Accuracy@1: 0.51%
+2026-03-22 23:12:49 - Accuracy@3: 0.51%
+2026-03-22 23:12:49 - Accuracy@5: 0.51%
+2026-03-22 23:12:49 - Accuracy@10: 0.51%
+2026-03-22 23:12:49 - Precision@1: 0.51%
+2026-03-22 23:12:49 - Precision@5: 0.10%
+2026-03-22 23:12:49 - Precision@10: 0.05%
+2026-03-22 23:12:49 - Precision@20: 0.03%
+2026-03-22 23:12:49 - Precision@50: 0.03%
+2026-03-22 23:12:49 - Precision@100: 0.03%
+2026-03-22 23:12:49 - Precision@200: 0.03%
+2026-03-22 23:12:49 - Precision@500: 0.03%
+2026-03-22 23:12:49 - Recall@1: 0.17%
+2026-03-22 23:12:49 - Recall@5: 0.17%
+2026-03-22 23:12:49 - Recall@10: 0.17%
+2026-03-22 23:12:49 - Recall@20: 0.17%
+2026-03-22 23:12:49 - Recall@50: 0.94%
+2026-03-22 23:12:49 - Recall@100: 1.45%
+2026-03-22 23:12:49 - Recall@200: 3.10%
+2026-03-22 23:12:49 - Recall@500: 7.95%
+2026-03-22 23:12:49 - MRR@10: 0.0051
+2026-03-22 23:12:49 - MRR@100: 0.0056
+2026-03-22 23:12:49 - NDCG@10: 0.0024
+2026-03-22 23:12:49 - NDCG@100: 0.0050
+2026-03-22 23:12:49 - MAP@10: 0.0017
+2026-03-22 23:12:49 - MAP@100: 0.0020
