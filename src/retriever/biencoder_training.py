@@ -1,5 +1,5 @@
 import datetime
-print("Doing English QA. Time now is ", datetime.datetime.now())
+print("Doing English QA for Dutch Model. Time now is ", datetime.datetime.now())
 import os
 import sys
 import pathlib
@@ -58,9 +58,9 @@ def main(args):
     data = LLeQADatasetIRLoader(
         stage='fit',
         corpus_path_or_url="data/lleqa/english_articles.json",
-        train_path_or_url="data/lleqa/english_questions_train.json",
-        dev_path_or_url="data/lleqa/english_questions_val.json",
-        test_path_or_url="data/lleqa/english_questions_test.json",
+        train_path_or_url="/home/btech/cbot_bleu/dutch/data/lleqa/dutch_questions_train.json",
+        dev_path_or_url="/home/btech/cbot_bleu/dutch/data/lleqa/dutch_questions_val.json",
+        test_path_or_url="/home/btech/cbot_bleu/dutch/data/lleqa/dutch_questions_test.json",
         negatives_path_or_url="data/lleqa/negatives/negatives_bm25.json",
     ).run()
 

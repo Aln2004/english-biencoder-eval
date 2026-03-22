@@ -1,5 +1,5 @@
 #!/bin/bash
-
+export WANDB_MODE=disabled
 
 # Model.       
 MODEL="/shared/checkpoints/dutch/final"
