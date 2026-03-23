@@ -57,10 +57,10 @@ def main(args):
     args.dataset = "lleqa"
     data = LLeQADatasetIRLoader(
         stage='fit',
-        corpus_path_or_url="data/lleqa/english_articles.json",
-        train_path_or_url="/home/btech/cbot_bleu/dutch/data/lleqa/dutch_questions_train.json",
-        dev_path_or_url="/home/btech/cbot_bleu/dutch/data/lleqa/dutch_questions_val.json",
-        test_path_or_url="/home/btech/cbot_bleu/dutch/data/lleqa/dutch_questions_test.json",
+        corpus_path_or_url=args.corpus_path,
+        train_path_or_url=args.train_path,
+        dev_path_or_url=args.dev_path,
+        test_path_or_url=args.test_path,
         negatives_path_or_url="data/lleqa/negatives/negatives_bm25.json",
     ).run()
 
@@ -144,6 +144,11 @@ if __name__ == '__main__':
     parser.add_argument("--max_seq_length", type=int, help="Maximum length at which the passages will be truncated.")
     parser.add_argument("--pooling", type=str, choices=["mean", "max", "cls"], help="Type of pooling to perform to get a passage representation.")
     parser.add_argument("--sim", type=str, choices=["cos_sim", "dot_score"], help="Similarity function for scoring query-document representation.")
+    # Data paths.
+    parser.add_argument("--corpus_path", type=str, help="Absolute path to the corpus articles JSON.")
+    parser.add_argument("--train_path", type=str, help="Absolute path to the train questions JSON.")
+    parser.add_argument("--dev_path", type=str, help="Absolute path to the dev questions JSON.")
+    parser.add_argument("--test_path", type=str, help="Absolute path to the test questions JSON.")
     # Training.
     parser.add_argument("--epochs", type=int, help="Total number of training epochs to perform.")
     parser.add_argument("--train_batch_size", type=int, help="The batch size per GPU/TPU core/CPU for training.")
