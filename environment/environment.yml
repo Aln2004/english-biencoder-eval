@@ -1,0 +1,7 @@
+name: rachitlegalnlp
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - libsndfile=1.0.31
+prefix: /home/btech/miniconda3/envs/rachitlegalnlp

@@ -1,0 +1,500 @@
+ls
+squeue
+ls
+scancel 1050
+nano runseamless.sh 
+sinfo
+sbatch runseamless.sh 
+squeue
+nano runseamless.sh 
+ls
+cd legalnlpexperiments
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+nano final_language_lleqa.py 
+python3 final_language_lleqa.py 
+source ../../../legalnlplibraries/bin/activate/
+source ../../../legalnlplibraries/bin/activate
+python3 final_language_lleqa.py 
+python3 final_language_lleqa.py 
+python3
+pip3 install git+https://github.com/facebookresearch/seamless_communication.git
+python3
+ls
+python3 final_language_lleqa.py 
+ls
+squeue
+ls
+nano final_language_lleqa.py 
+mv final_language_lleqa.py ../../../toytests/old.py
+ls
+nano runseamless.sh 
+ls
+ls
+nano multilingual_lleqa.py
+nano multilingual_lleqa.py
+python3 multilingual_lleqa.py 
+top
+ls
+nano runseamless.sh 
+nano multilingual_lleqa.py 
+nano runseamless.sh 
+sbatch runseamless.sh 
+squeue
+nano runseamless.sh 
+sbatch runseamless.sh 
+squeue
+ls
+scancel 1039
+scancel 1038
+ls
+nano multilleqa.txt 
+ls
+nano runseamless.sh 
+ls
+ls
+rm multilleqa.txt 
+ls
+ls
+nano runseamless.sh 
+sbatch runseamless.sh 
+nano runseamless.sh 
+ls
+nano runseamless.sh 
+nano runseamless.sh 
+sbatch runseamless.sh 
+ls
+cat multilleqa.txt 
+ls
+nano runseamless.sh 
+nano runseamless.sh 
+squeue
+ls
+rm multilleqa.txt 
+ls
+nano runseamless.sh 
+ls
+sinfo
+ks
+ls
+sinfo
+ls
+nano runseamless.sh 
+nano runseamless.sh 
+squeue
+ls
+sbatch runseamless.sh 
+ls
+ls
+squeue
+scancel 1045
+ls
+nano runseamless.sh 
+squeue
+squeue
+top
+squeue
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+nano multilleqa.txt 
+rm multilleqa.txt 
+ls
+nano runseamless.sh 
+ls
+sbatch runseamless.sh 
+ls
+ls
+nano runseamless.sh 
+squeue
+nano runseamless.sh 
+scancel 1063
+squeue
+top
+watch nvidia-smi
+nvidia-smi
+watch nvidia-smi
+ls
+cd legalnlp
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+nano runseamless.sh 
+nano runseamless.sh 
+sbatch runseamless.sh 
+ls
+nano multilleqa.txt 
+rm multilleqa.txt 
+ls
+squeue
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+python3
+nano multilingual_lleqa.py 
+ks
+ls
+squeue
+nano runseamless.sh 
+python3
+stat
+stat *
+ls
+nano multilingual_lleqa.py 
+python3
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+clear
+ls
+clear
+ls
+cd legalnlpexperiments
+ls
+cd finalrun
+ls
+cd multilingual_legal_qa/
+ls
+nano runseamless.sh 
+nano multilingual_lleqa.py 
+ls
+nano runseamless.sh 
+python3
+nano runseamless.sh 
+nano runseamless.sh 
+nano runseamless.sh 
+sbatch runseamless.sh 
+ls
+cat multilleqa.txt 
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+rm multilleqa.txt 
+ls
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+python3
+ls
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+nano runseamless.sh 
+sbatch runseamless.sh 
+squeue
+ls
+nano multilleqa.txt 
+scancel 1074
+ls
+rm multilleqa.txt 
+ls
+ls
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+python3
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+squeue
+top
+squeue
+htop
+sbatch runseamless.sh 
+squeue
+ls
+cat multilleqa.txt
+cat multilleqa.txt
+cat multilleqa.txt
+ls
+ls
+squeue
+squeue
+history -a 
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+squeue
+cat multilleqa.txt 
+ls
+nano multilingual_lleqa.py 
+python3
+nano multilingual_lleqa.py 
+python3 multilingual_lleqa.py 
+source ../../../legalnlplibraries/bin/activate
+ls
+pwd
+ls
+rm multilleqa.txt 
+ls
+sbatch runseamless.sh 
+ls
+cat multilleqa.txt 
+cat multilleqa.txt 
+ls
+nano multilingual_lleqa.py 
+sbatch runseamless.sh 
+ls
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+ls
+squeue
+scancel 1077
+ls
+nano multilleqa.txt 
+ls
+ls
+nano runseamless.sh 
+cat multilleqa.txt 
+ls
+rm multilleqa.txt 
+ls
+nano multilingual_lleqa.py 
+python3 multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+python3 multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+ls
+ls
+nano runseamless.sh 
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+ls
+nano multilingual_lleqa.py 
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+ls
+ls 
+ls
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+source legalnlplibraries/bin/activate
+ls
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+ls
+python3
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+nano runseamless.sh 
+ls 
+squeue
+htop
+ls
+squeue
+top
+htop
+ls
+sbatch runseamless.sh 
+squeue
+ls
+cat multilleqa.txt 
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+ls
+sbatch runseamless.sh 
+ls
+nano multilleqa.txt 
+cat multilleqa.txt 
+ls
+squeue
+scancel 1079
+nano runseamless.sh 
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+rm multilleqa.txt 
+python3
+ls
+nano runseamless.sh 
+nano multilingual_lleqa.py 
+python3
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+squeue
+top
+squeue
+htop
+ls
+sbatch runseamless.sh 
+ls
+squeue
+cat multilleqa.txt 
+echo "Preparing Dataset 1"
+ls
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+squeue
+scancel 1080
+squeue
+clear
+ls
+source legalnlplibraries/bin/activate
+ls
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+rm multilleqa.txt 
+ls
+python3
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+squeue
+htop
+htop
+ls
+sbatch runseamless.sh 
+ls
+echo "Experiment March 6 7:34pm Preparing Datasets "
+ls
+cat multilleqa.txt 
+echo "Experiment March 6 7:34pm Preparing Datasets "
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history

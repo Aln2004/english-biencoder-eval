@@ -1,0 +1,500 @@
+ls
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+ls
+nano multilingual_lleqa.py 
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+ls
+ls 
+ls
+cd ..
+cd ..
+ls
+cd ..
+ls
+cd ..
+ls
+ls
+source legalnlplibraries/bin/activate
+ls
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+ls
+python3
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+nano runseamless.sh 
+ls 
+squeue
+htop
+ls
+squeue
+top
+htop
+ls
+sbatch runseamless.sh 
+squeue
+ls
+cat multilleqa.txt 
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+ls
+sbatch runseamless.sh 
+ls
+nano multilleqa.txt 
+cat multilleqa.txt 
+ls
+squeue
+scancel 1079
+nano runseamless.sh 
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+rm multilleqa.txt 
+python3
+ls
+nano runseamless.sh 
+nano multilingual_lleqa.py 
+python3
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+squeue
+top
+squeue
+htop
+ls
+sbatch runseamless.sh 
+ls
+squeue
+cat multilleqa.txt 
+echo "Preparing Dataset 1"
+ls
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+squeue
+scancel 1080
+squeue
+clear
+ls
+source legalnlplibraries/bin/activate
+ls
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+rm multilleqa.txt 
+ls
+python3
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+squeue
+htop
+htop
+ls
+sbatch runseamless.sh 
+ls
+echo "Experiment March 6 7:34pm Preparing Datasets "
+ls
+cat multilleqa.txt 
+echo "Experiment March 6 7:34pm Preparing Datasets "
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+pwd
+python3
+top
+squeue
+ls
+pwd
+cd ~
+ls -la
+pwd
+cd -
+ls
+pwd
+history -a
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+python3
+ls
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+nano multilingual_lleqa.py 
+nano runseamless.sh 
+nano multilingual_lleqa.py 
+squeue
+top
+htop
+nano runseamless.sh 
+sbatch runseamless.sh
+ls
+cat multilleqa.txt 
+ls
+squeue
+scancel 1107
+ls
+rm multilleqa.txt
+ls
+history -a
+ls
+source legalnlplibraries/bin/activate
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+ls
+python3
+ls
+nano runseamless.sh 
+nano multilingual_lleqa.py 
+ls
+squeue
+top
+sbatch runseamless.sh 
+ls
+echo "Experiment for continuation of translation from Japanese March 10th "
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+history -a
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a 
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+squeue
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+squeue
+pwd
+cd ~
+ls -la
+pwd
+ls
+ls
+source legalnlplibraries/bin/activate
+ls
+ls
+python3
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat runseamless.sh 
+nano runseamless.sh 
+ls
+nano multilingual_lleqa.py 
+cat multilleqa.txt 
+head multilleqa.txt 
+head -70 multilleqa.txt 
+rm multilleqa.txt 
+ls
+squeue
+top
+squeue
+ls
+sbatch runseamless.sh 
+echo "Running experiment continuation of French to Japanese Translation March 12th "
+cat multilleqa.txt 
+cat multilleqa.txt 
+history -a 
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a 
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a 
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a 
+history
+ls
+cd legalnlpexperiments
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+cat multilleqa.txt 
+squeue
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt 
+history -a
+history
+ls
+cd legalnlpexperiments/
+ls
+cd finalrun/
+ls
+cd multilingual_legal_qa/
+ls
+cat multilleqa.txt
+history -a
+history

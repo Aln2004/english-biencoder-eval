@@ -1,0 +1,324 @@
+ls
+conda 
+wget
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+ls
+ffmpeg
+ls
+bash Miniconda3-latest-Linux-x86_64.sh 
+conda
+bash Miniconda3-latest-Linux-x86_64.sh 
+conda init
+conda
+source ~/.bashrc
+conda
+nano ~/.bashrc 
+ls
+pwd
+export PATH="/home/mtech/miniconda3"
+PATH
+echo PATH
+echo $PATH
+ls
+cd miniconda3/
+ls
+conda
+PATH
+echo $PATH
+bash
+$PATH
+echo $PATH
+nano .bashrc 
+ls
+cd miniconda3/
+ls
+pwd
+cd ..
+ls
+nano .bashrc 
+conda
+nano 
+nano .bashrc 
+export PATH=/home/mtech/miniconda3:$PATH
+conda
+source ~/miniconda3/bin/activate 
+conda
+ls
+conda
+nano .bashrc 
+ls
+conda
+ls
+conda info --envs
+conda create --name rachitlegalnlp
+conda info --envs
+conda activate rachitlegalnlp
+ls
+conda info --envs
+cd miniconda3/envs/
+ls
+rm -r rachitlegalnlp/
+cd ..
+ls
+conda create --name rachitlegalnlp python=3.8
+conda activate rachitlegalnlp
+pip
+pip3 install fairseq2
+pip install pydub sentencepiece
+pip3 install pydub sentencepiece
+pip3 install git+https://github.com/facebookresearch/seamless_communication.git
+python3
+conda install -c conda-forge libsndfile==1.0.31
+python3
+ls
+mkdir rachit
+cd rachit/
+ls
+nvidia-smi
+watch nvidia-smi
+top
+ls
+cd miniconda3/
+ls
+cd ..
+ls
+conda activate rachitlegalnlp
+pip
+conda list
+deactivate
+conda deactivate
+pip
+ls
+cd rachit/
+ls
+mkdir experiments/multilingualqa
+mkdir experiments/
+cd experiments/
+ls
+mkdir multilingualqa
+ls
+cd multilingualqa/
+ls
+pwd
+ls
+cat multilleqa.txt 
+rm multilleqa.txt 
+ls
+huggingface-cli login
+huggingface
+python3 multilingual_lleqa.py 
+conda activate rachitlegalnlp
+python3 multilingual_lleqa.py 
+pip3 install matplotlib
+python3 multilingual_lleqa.py 
+huggingface-cli
+huggingface-cli login
+python3 multilingual_lleqa.py 
+CUDA_VISIBLE_DEVICES=2 python3 multilingual_lleqa.py 
+clear
+ls
+nohup python3 -u multilingual_lleqa.py > multilleqa.py & 
+top
+ls
+cat multilleqa.py 
+ls
+rm multilleqa.py 
+ls
+nano multilingual_lleqa.py 
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+python3
+nvidia-smi
+watch nvidia-smi
+lscpu
+ls
+nano multilingual_lleqa.py 
+top
+htop
+ls
+kill 1594183
+watch nvidia-smi
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+python3
+nvidia-smi
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments
+ls
+cd multilingualqa
+ls
+python3
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+python3
+ls
+watch nvidia-smi
+ls
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+python3
+ls
+lscpu
+watch nvidia-smi
+lscpu
+ls
+nano multilingual_lleqa.py 
+top
+htop
+top
+ls
+top
+watch nvidia-smi 
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+python3
+ls
+lscpu
+ls
+nano multilingual_lleqa.py 
+top
+htop
+CUDA_VISIBLE_DEVICES=2 nohup python3 -u multilleqa.py > multilleqa.out & 
+cat multilleqa.out 
+ls
+rm multilleqa.out 
+ls
+watch nvidia-smi
+conda activate rachitlegalnlp
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+python3
+lscpu
+ls
+nano multilingual_lleqa.py 
+top
+htop
+ls
+htop
+CUDA_VISIBLE_DEVICES=2 nohup python3 -u multilingual_lleqa.py > multilleqa.out & 
+cat multilleqa.out 
+echo "Experiment to translate to Finnish onwards"
+history -a
+history 
+history -a
+history
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history
+ls
+cd rachit/
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history
+ls
+cd rachit
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilingual_lleqa.py 
+ls
+cat multilleqa.out 
+history -a
+history 
+ls
+cd rachit/
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history
+ls
+cd rachit/
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history
+ls
+cd rachit/
+ls
+cd experiments/
+ls
+cd multilingualqa/
+ls
+cat multilleqa.out 
+history -a
+history 
